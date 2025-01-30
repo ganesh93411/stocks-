@@ -4,5 +4,5 @@ pandas==2.2.3
 scikit_learn==1.6.0
 streamlit==1.37.1
 seaborn==0.13.2
-setuptool==25.0
+setuptool==24.2
 openpyxl
